@@ -1,11 +1,11 @@
 # FumiServi-MERN
 MERN full project
 
-How to install¿?
--Download the zip
--extract
--Create .babelrc file in /src
--npm install
--npm run dev
--npm run webpack
--run your mongod
+How to install¿?<br/> 
+-Download the zip<br/>
+-extract<br/>
+-Create .babelrc file in /src<br/>
+-npm install<br/>
+-npm run dev<br/>
+-npm run webpack<br/>
+-run your mongod<br/>
