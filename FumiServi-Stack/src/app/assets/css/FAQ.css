@@ -1,0 +1,26 @@
+.cont{  
+
+    width: 100%;
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    background-color: #006064 ;
+}
+.faq {
+    text-align: center;   
+    
+}
+
+.faq .h3{
+    text-transform: uppercase;
+    color: rgb(236, 184, 7);
+    margin: 0;
+    padding: 0;
+
+}
+.faq h2{
+    padding: 0;
+    margin: 0;
+
+    color: #FFF;
+}

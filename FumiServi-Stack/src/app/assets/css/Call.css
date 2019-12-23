@@ -1,0 +1,22 @@
+.cont{  
+
+        width: 100%;
+        height: auto;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        background-color: #1565c0;
+}
+.box{   
+            
+        display: inline-block;
+
+}
+.text{  
+        font-weight: bold;
+        font-size: 25px;
+        color: #FFF;
+        display: inline-block;
+        padding-right: 0.5rem;
+        
+        
+}       
